@@ -1,0 +1,8 @@
+nome_roupa = input("Digite o nome da roupa: ")
+valor_roupa = float(input("Digite o valor da roupa"))
+consumo_de_quantidade = float(input("Digite o consumo da quantidade de roupa: " ))
+print("......................................")
+print("| Roupa: ",nome_roupa)
+print("| Valor:",valor_roupa)
+print("| Consumo de quantidade: ",consumo_de_quantidade)
+print(".......................................")    
